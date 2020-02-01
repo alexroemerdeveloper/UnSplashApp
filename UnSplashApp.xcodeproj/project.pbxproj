@@ -13,6 +13,7 @@
 		6FF76C9A23E61258009E1EE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF76C9923E61258009E1EE3 /* Assets.xcassets */; };
 		6FF76C9D23E61258009E1EE3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF76C9C23E61258009E1EE3 /* Preview Assets.xcassets */; };
 		6FF76CA023E61258009E1EE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FF76C9E23E61258009E1EE3 /* LaunchScreen.storyboard */; };
+		6FF76CA823E612EA009E1EE3 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF76CA723E612EA009E1EE3 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6FF76C9C23E61258009E1EE3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6FF76C9F23E61258009E1EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FF76CA123E61258009E1EE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FF76CA723E612EA009E1EE3 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6FF76C9323E61256009E1EE3 /* AppDelegate.swift */,
 				6FF76C9523E61256009E1EE3 /* SceneDelegate.swift */,
 				6FF76C9723E61256009E1EE3 /* ContentView.swift */,
+				6FF76CA723E612EA009E1EE3 /* Home.swift */,
 				6FF76C9923E61258009E1EE3 /* Assets.xcassets */,
 				6FF76C9E23E61258009E1EE3 /* LaunchScreen.storyboard */,
 				6FF76CA123E61258009E1EE3 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				6FF76C9423E61256009E1EE3 /* AppDelegate.swift in Sources */,
 				6FF76C9623E61256009E1EE3 /* SceneDelegate.swift in Sources */,
+				6FF76CA823E612EA009E1EE3 /* Home.swift in Sources */,
 				6FF76C9823E61256009E1EE3 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
